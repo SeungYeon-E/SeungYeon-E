@@ -17,7 +17,6 @@
 ![Android](https://img.shields.io/badge/-AndroidStudio-darkgreen?style=flat-square&logo=android&logoColor=white)
 
 <br/>
-<br/>
 
 ### Contact about me🙋🏻‍♀️
 ![Git](https://img.shields.io/badge/-GitHub-990099?style=flat-square&logo=GitHub&logoColor=white)
