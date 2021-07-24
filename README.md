@@ -7,10 +7,7 @@
 ![Html](https://img.shields.io/badge/-HTML-CC3333?style=flat-square&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/-CSS-336699?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-
 <br/>
-<br/>
-
 ### Programs of use💻
 ![Mysql](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333366?style=flat-square&logo=Eclipse&logoColor=white)
